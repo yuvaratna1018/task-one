@@ -4,7 +4,8 @@ iD:CT08DS1647
 Domain:Python programming
 duration:june to july 2024
 mentor:sravani gouni
-![Screenshot (1)](https://github.com/yuvaratna1018/task-one/assets/173226037/e23b0f39-dc57-4ebb-bab8-d2edbf97dbdc)
+
+![Screenshot (5)](https://github.com/yuvaratna1018/task-one/assets/173226037/960bd624-48df-4842-a002-48f73712ef2e)
 
 Overview of the project
 project:simple calculator of any two numbers
