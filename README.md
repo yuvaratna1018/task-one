@@ -9,7 +9,9 @@ Overview of the project:
 
 project:simple calculator of any two numbers
 
-![Screenshot (5)](https://github.com/yuvaratna1018/task-one/assets/173226037/960bd624-48df-4842-a002-48f73712ef
+
+![Screenshot (5)](https://github.com/yuvaratna1018/task-one/assets/173226037/4a2124fc-777e-4227-ba31-bef8eef50812)
+
 
 Objective:
 
